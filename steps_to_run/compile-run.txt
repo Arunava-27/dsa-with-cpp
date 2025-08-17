@@ -1,0 +1,7 @@
+$ mkdir output
+
+// Compile the C++ code
+$ clang++ <file_name>.cpp -o output/<file_name>.exe
+
+// Run the compiled executable
+$ ./output/<file_name>.exe
