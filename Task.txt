@@ -1,0 +1,9 @@
+1. WAF to check if a number in prime or not.
+
+2. WAF to print all prime numbers from 2 to n.
+
+3. WAF to print nth Fibonacci.
+
+Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+WAP using Switch Case:
